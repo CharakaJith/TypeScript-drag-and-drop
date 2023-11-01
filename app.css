@@ -134,6 +134,7 @@ button:active {
   align-items: center;
   width: 100%;
   text-align: center;
+  padding: 2%;
 }
 
 .inline-elements h2,
