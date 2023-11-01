@@ -27,7 +27,7 @@
    npm install
    ```
 3. Compile the TypeScript files
-  ```bash
+   ```bash
    tsc
    ```
 
